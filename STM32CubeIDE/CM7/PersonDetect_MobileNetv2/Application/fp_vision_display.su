@@ -1,0 +1,8 @@
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_display.c:74:6:DISPLAY_Init	40	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_display.c:118:5:DISPLAY_WelcomeScreen	48	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_display.c:161:6:DISPLAY_FoodLogo	40	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_display.c:176:6:DISPLAY_DrawBBox	24	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_display.c:200:6:DISPLAY_Refresh	40	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_display.c:227:6:DISPLAY_Copy2LCDWriteBuffer	40	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_display.c:239:6:DISPLAY_CameraCaptureBuffer	36	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_display.c:283:6:HAL_LTDC_ReloadEventCallback	0	static

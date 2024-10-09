@@ -1,0 +1,13 @@
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:451:13:DCMI_MDMAError	1
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:430:13:DCMI_DMAError	2
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:376:13:DCMI_DMALineXferCplt	2
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:396:13:DCMI_MDMAFrameXferCplt	3
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:45:6:CAMERA_Context_Init	1
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:58:6:CAMERA_Init	8
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:154:6:CAMERA_Set_MirrorFlip	2
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:168:6:CAMERA_Enable_TestBar_Mode	3
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:198:6:CAMERA_Disable_TestBar_Mode	3
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:231:6:BSP_CAMERA_FrameEventCallback	2
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:261:6:BSP_CAMERA_VsyncEventCallback	7
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:294:6:BSP_CAMERA_ErrorCallback	1
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_camera.c:313:19:HAL_DCMIEx_Start_DMA_MDMA	3

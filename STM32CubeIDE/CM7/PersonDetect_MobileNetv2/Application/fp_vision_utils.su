@@ -1,0 +1,7 @@
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_utils.c:80:6:UTILS_Init	8	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_utils.c:102:10:UTILS_GetTimeStamp	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_utils.c:122:6:UTILS_Dma2d_Memcpy	64	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_utils.c:170:6:UTILS_Joystick_Check	16	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_utils.c:254:6:UTILS_DCache_Coherency_Maintenance	0	static,ignoring_inline_asm
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_utils.c:276:6:UTILS_Bubblesort	16	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/fp_vision_utils.c:302:6:UTILS_Compute_ExecutionTiming	8	static

@@ -1,0 +1,13 @@
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6058:9:network_configure_weights	2
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:5726:9:network_configure_activations	2
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6397:9:ai_network_get_info	3
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6443:9:ai_network_get_report	3
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6489:10:ai_network_get_error	1
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6495:10:ai_network_create	1
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6505:10:ai_network_create_and_init	12
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6539:12:ai_network_inputs_get	2
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6549:12:ai_network_outputs_get	2
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6559:11:ai_network_destroy	1
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6565:9:ai_network_init	2
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6582:8:ai_network_run	1
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/PersonDetection/MobileNetv2_Model/CM7/Src/network.c:6589:8:ai_network_forward	1

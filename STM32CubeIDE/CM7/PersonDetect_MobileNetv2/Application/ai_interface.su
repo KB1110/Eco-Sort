@@ -1,0 +1,13 @@
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:41:9:ai_get_input_format	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:51:9:ai_get_output_format	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:61:9:ai_get_input_quantized_format	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:71:10:ai_get_input_quantization_scheme	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:99:10:ai_get_output_quantization_scheme	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:127:10:ai_get_output_fxp_scale	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:145:10:ai_get_input_scale	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:154:8:ai_get_input_zero_point	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:163:10:ai_get_output_scale	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:172:8:ai_get_output_zero_point	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:183:11:ai_init	80	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:212:6:ai_deinit	0	static
+D:/Projects/FP-AI-VISION1_V3.1.0/Projects/STM32H747I-DISCO/Applications/Common/CM7/Src/ai_interface.c:219:6:ai_run	16	static
